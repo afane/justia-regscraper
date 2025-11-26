@@ -141,10 +141,3 @@ If validation reports missing records:
 - **Average state**: 1,000-5,000 regulations, takes 10-40 minutes
 - **Large states** (CA, TX, NY): 10,000+ regulations, takes 2-4 hours
 
-## License
-
-MIT
-
-## Credits
-
-Built for scraping US state administrative regulations from Justia's regulations database.
